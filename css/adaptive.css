@@ -15,6 +15,7 @@
         padding-left: 24px;
     }
     .main {
+        padding-bottom: 40px;
         display: flex;
         justify-content: space-between;
     }
@@ -25,16 +26,16 @@
     .section-about {
         padding: 24px 24px;
         padding-top: 32px;
+        padding-bottom: 0;
     }
     .section-about__more {
         padding-top: 10px;
-        padding-bottom: 50px;
     }
     .section-img {
         padding-left: 40px;
         padding-right: 25px;
         padding-top: 32px;
-        padding-bottom: 40px;
+        padding-bottom: 0;
     }
     .section-img__mask {
         position: relative;
@@ -104,7 +105,7 @@
         padding-left: 36px;
         padding-right: 28px;
         padding-top: 0;
-        padding-bottom: 40px;
+        padding-bottom: 0;
     }
     .section-img__mask {
         width: 531px;
