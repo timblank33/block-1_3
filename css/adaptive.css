@@ -1,5 +1,5 @@
 @media (min-width: 768px) {
-    .tablet-adapt--display--none {
+    .tablet-adapt--display {
         display: inline;
     }
     .header__mobile {
@@ -53,7 +53,7 @@
     }
 }
 @media (min-width: 1120px) {
-    .header__mobile--display--none {
+    .header__mobile--display {
         display: none;
     }
     .desktop-adapt--display {

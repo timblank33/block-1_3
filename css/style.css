@@ -11,13 +11,13 @@
     src: url("../fonts/TTLakes-Medium.ttf");
 }
 
-.desktop-adapt--display--none{
+.desktop-adapt--display{
     display: none;
 }
-.tablet-adapt--display--none {
+.tablet-adapt--display {
     display: none;
 }
-h1 {
+.title__check--font {
     font-family: "TT Lakes Bold";
     font-size: 28px;
     line-height: 40px;
